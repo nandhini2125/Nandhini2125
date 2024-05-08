@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**nandhini2125/Nandhini2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Coffee Shop Website
+### About
+This is a simple Web Development project created for college project with only HTML, CSS and Javascript.
+It is about a Coffee Shop's site and called as **Crafted Coffee's**.
+Being my first project it is not responsive or dynamic.<br>
+<br>
+Check out website for quick view. [Crafted Coffee's](https://hetshah23.github.io/Coffee-Shop-Website/)
+<br><br>
+### Snapshot
+![Home Page Snapshot](shapshot/2020-08-17%20(2).png)
